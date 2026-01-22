@@ -1,6 +1,20 @@
 # Inventory Management and Tracking System
 
-A comprehensive web-based inventory management application built with **Angular 21** and **TypeScript**. This system monitors product stocks, suppliers, and purchase orders with a modern, responsive UI.
+A comprehensive web-based inventory management application built with Angular 21 and TypeScript.  
+This system monitors product stocks, suppliers, and purchase orders with a modern, responsive user interface.
+
+---
+
+## Group Members
+
+| Name | Registration Number | Christ Email ID |
+|------|----------------------|------------------|
+| Barath C G | 2462507 | barath.cg@btech.christuniversity.in |
+| N Muthukrishnan | 2462519 | n.muthukrishnan@btech.christuniversity.in |
+| Neal Sebastian | 2462520 | neal.sebastian@btech.christuniversity.in |
+| Noel Kolanchery Roy | 2462522 | noel.kolanchery@btech.christuniversity.in |
+
+---
 
 ##  Features
 
